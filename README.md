@@ -2,10 +2,6 @@
 
 I consolidated all my front-end projects I built as part of my Codecademy assignment and self-learning.
 
-A project item animation where the background of a grid item expands and the product image scales up. Based on the Dribbble shot [Surf Project](https://dribbble.com/shots/3879463-Surf-Project) by [Filip Slováček](https://dribbble.com/filipslovacek).
-
-![Expanding Grid Item Animation](https://tympanus.net/codrops/wp-content/uploads/2017/11/expandinggrid_featured.jpg)
-
 ## Credits
 
 - [anime.js](http://anime-js.com/) by Julian Garnier
