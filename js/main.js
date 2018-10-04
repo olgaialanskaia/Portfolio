@@ -15,7 +15,7 @@
             </a>
             <p class="details__description"></p>
             <a class="details__source" target="_blank" href="">
-              <i class="fab fa-github fa-lg mr-2"></i>
+              <i class="fab fa-github fa-lg"></i>
             </a>
             <button class="details__close"><svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg></button>
             <button class="details__magnifier"><svg class="icon icon--magnifier"><use xlink:href="#icon-magnifier"></use></svg></button>
